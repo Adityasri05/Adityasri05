@@ -13,39 +13,6 @@ Experience: Previously a Summer Intern at SRDT Pvt. Ltd., where I worked on prac
 
 Goal: Seeking software development opportunities to apply my technical skills to innovative projects.
 
-
-
-
-
-
-
-
-Category,Skills
-Languages,"Java, Python, JavaScript, HTML5, CSS "
-Competencies,"Data Structures & Algorithms, Web Development "
-Tools,"Git, GitHub, VS Code, IntelliJ IDEA "
-Soft Skills,"Team Collaboration, Project Management, Marketing "
-
-
-
-
-
-
-Hi there, I'm Aditya Srivastav! 👋
-I am a Computer Science and Engineering student at Shri Ramswaroop Memorial College of Engineering and Management. Currently in my second year, I am passionate about building software that solves real-world problems and fostering a vibrant developer community.
-
-🚀 About Me
-
-Current Focus: Mastering Data Structures, Algorithms, and Web Development.
-
-
-Leadership: Serving as the Marketing Coordinator for GDG on Campus - SRMCEM, where I help organize hackathons and workshops for over 500 students.
-
-Experience: Previously a Summer Intern at SRDT Pvt. Ltd., where I worked on practical software development and code reviews.
-
-
-Goal: Seeking software development opportunities to apply my technical skills to innovative projects.
-
 🛠️ Technical Toolkit
 Category	Skills
 Languages	
