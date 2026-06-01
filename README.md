@@ -1,5 +1,26 @@
 # 💫 About Me:
-Hi there, I'm Aditya Srivastav! 👋<br>I am a Computer Science and Engineering student at Shri Ramswaroop Memorial College of Engineering and Management. Currently in my second year, I am passionate about building software that solves real-world problems and fostering a vibrant developer community.<br><br>🚀 About Me<br><br>Current Focus: Mastering Data Structures, Algorithms, Web Development and AI/ML.<br><br><br>Leadership: Serving as the Marketing Coordinator for GDG on Campus - SRMCEM, where I help organize hackathons and workshops for over 100 students.<br><br>Experience: Previously a Summer Intern at SRDT Pvt. Ltd., where I worked on practical software development and code reviews.<br><br><br>Goal: Seeking software development opportunities to apply my technical skills to innovative projects.<br><br>🏆 Achievements & Involvement<br><br>GDG on Campus: Active community member promoting developer culture and technical events.<br><br><br>Science Exhibition: Recognized for innovative project presentation and scientific research.<br><br><br>Professional Training: Successfully completed structured internship and training programs.<br>
+Hi there, I'm <b>Aditya Srivastav</b>! 👋<br>
+I am a <b>Computer Science and Engineering student</b> at <i>Shri Ramswaroop Memorial College of Engineering and Management</i>. Currently in my <b>second year</b>, I am deeply passionate about building meaningful software solutions, exploring modern technologies, and contributing to the developer ecosystem.<br><br>
+
+I enjoy transforming ideas into real-world applications by combining <b>logic, creativity, and engineering fundamentals</b>. My long-term vision is to grow as a <b>software engineer who builds scalable, intelligent, and impactful systems</b>.<br><br>
+
+🚀 About Me<br><br>
+
+🎯 Current Focus: Strengthening my expertise in Data Structures & Algorithms, Full-Stack Web Development, Artificial Intelligence & Machine Learning fundamentals, system design principles, and hands-on project development using real-world tech stacks.<br><br><br>
+
+👨‍💼 Leadership: Serving as the <b>Marketing Coordinator</b> for GDG on Campus - SRMCEM, where I actively contribute to organizing hackathons, technical workshops, and community events for over <b>100+ students</b>, while also driving developer engagement and outreach initiatives.<br><br><br>
+
+💼 Experience: Previously worked as a <b>Software Development Intern</b> at SRDT Pvt. Ltd., where I gained hands-on experience in software development, feature implementation, debugging, code reviews, and understanding real-world SDLC workflows in a collaborative environment.<br><br><br>
+
+🎯 Goal: Actively seeking software development opportunities, internships, and collaborative projects where I can apply my technical skills, build scalable systems, learn from industry professionals, and contribute to impactful real-world solutions.<br><br>
+
+🏆 Achievements & Involvement<br><br>
+
+🧩 GDG on Campus: Active contributor promoting developer culture, technical awareness, and participation in coding events, hackathons, and workshops.<br><br><br>
+
+🔬 Science Exhibition: Recognized for innovative project design and presentation, demonstrating strong problem-solving ability and scientific thinking applied to real-world challenges.<br><br><br>
+
+📜 Professional Training: Successfully completed structured internship and technical training programs, gaining practical exposure to software engineering practices, teamwork, and development workflows.<br>
 
 
 ## 🌐 Socials:
