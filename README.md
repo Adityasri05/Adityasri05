@@ -73,8 +73,8 @@ Professional Training: Successfully completed structured internship and training
 
 📫 Connect with Me
 
-LinkedIn: linkedin.com/in/adityasrivastav 
-
+LinkedIn: https://www.linkedin.com/in/aditya-srivastav-85776a306
+ 
 
 Email: adityakrsrivastav2005@gmail.com 
 
