@@ -1,4 +1,6 @@
 # 💫 About Me:
+
+
 Hi there, I'm <b>Aditya Srivastav</b>! 👋<br>
 I am a <b>Computer Science and Engineering student</b> at <i>Shri Ramswaroop Memorial College of Engineering and Management</i>. Currently in my <b>second year</b>, I am deeply passionate about building meaningful software solutions, exploring modern technologies, and contributing to the developer ecosystem.<br><br>
 
@@ -15,6 +17,9 @@ I enjoy transforming ideas into real-world applications by combining <b>logic, c
 👨‍💼 Leadership: Serving as the <b>Marketing Coordinator</b> for GDG on Campus - SRMCEM, where I actively contribute to organizing hackathons, technical workshops, and community events for over <b>100+ students</b>, while also driving developer engagement and outreach initiatives.<br><br><br>
 
 💼 Experience: Previously worked as a <b>Software Development Intern</b> at SRDT Pvt. Ltd., where I gained hands-on experience in software development, feature implementation, debugging, code reviews, and understanding real-world SDLC workflows in a collaborative environment.<br><br><br>
+
+
+
 
 🎯 Goal: Actively seeking software development opportunities, internships, and collaborative projects where I can apply my technical skills, build scalable systems, learn from industry professionals, and contribute to impactful real-world solutions.<br><br>
 
