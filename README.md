@@ -49,10 +49,3 @@ I enjoy transforming ideas into real-world applications by combining <b>logic, c
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->.      
 
 
-
-## 🐍 Contribution Snake
-##<p align="center">
- ## <img src="https://raw.githubusercontent.com/Adityasri05/Adityasri05/output/github-snake-dark.svg" alt="Snake animation" />
-##</p>
-
-##<br clear="both">
