@@ -51,8 +51,8 @@ I enjoy transforming ideas into real-world applications by combining <b>logic, c
 
 
 ## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Adityasri05/Adityasri05/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
+##<p align="center">
+ ## <img src="https://raw.githubusercontent.com/Adityasri05/Adityasri05/output/github-snake-dark.svg" alt="Snake animation" />
+##</p>
 
-<br clear="both">
+##<br clear="both">
