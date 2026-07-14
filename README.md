@@ -4,15 +4,10 @@ Hi there, I'm <b>Aditya Srivastav</b>! 👋<br>
 I am a <b>Computer Science and Engineering student</b> at <i>Shri Ramswaroop Memorial College of Engineering and Management</i>. Currently in my <b>second year</b>, I am deeply passionate about building meaningful software solutions, exploring modern technologies, and contributing to the developer ecosystem.<br><br>
 
 
-
-
 I enjoy transforming ideas into real-world applications by combining <b>logic, creativity, and engineering fundamentals</b>. My long-term vision is to grow as a <b>software engineer who builds scalable, intelligent, and impactful systems</b>.<br><br>
 
 
-
-
 🚀 About Me<br><br>
-
 
 
 🎯 Current Focus: Strengthening my expertise in Data Structures & Algorithms, Full-Stack Web Development, Artificial Intelligence & Machine Learning fundamentals, system design principles, and hands-on project development using real-world tech stacks.<br><br><br>
