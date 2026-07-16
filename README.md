@@ -21,7 +21,6 @@ I enjoy transforming ideas into real-world applications by combining <b>logic, c
 🎯 Goal: Actively seeking software development opportunities, internships, and collaborative projects where I can apply my technical skills, build scalable systems, learn from industry professionals, and contribute to impactful real-world solutions.<br><br>
 
 
-
 🏆 Achievements & Involvement<br><br>
 
 🧩 GDG on Campus: Active contributor promoting developer culture, technical awareness, and participation in coding events, hackathons, and workshops.<br><br><br>
@@ -29,7 +28,6 @@ I enjoy transforming ideas into real-world applications by combining <b>logic, c
 🔬 Science Exhibition: Recognized for innovative project design and presentation, demonstrating strong problem-solving ability and scientific thinking applied to real-world challenges.<br><br><br>
 
 📜 Professional Training: Successfully completed structured internship and technical training programs, gaining practical exposure to software engineering practices, teamwork, and development workflows.<br>
-
 
 
 ## 🌐 Socials:
