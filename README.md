@@ -17,7 +17,6 @@ I enjoy transforming ideas into real-world applications by combining <b>logic, c
 💼 Experience: Previously worked as a <b>Software Development Intern</b> at SRDT Pvt. Ltd., where I gained hands-on experience in software development, feature implementation, debugging, code reviews, and understanding real-world SDLC workflows in a collaborative environment.<br><br><br>
 
 
-
 🎯 Goal: Actively seeking software development opportunities, internships, and collaborative projects where I can apply my technical skills, build scalable systems, learn from industry professionals, and contribute to impactful real-world solutions.<br><br>
 
 
