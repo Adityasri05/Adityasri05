@@ -5,8 +5,6 @@ I am a <b>Computer Science and Engineering student</b> at <i>Shri Ramswaroop Mem
 
 I enjoy transforming ideas into real-world applications by combining <b>logic, creativity, and engineering fundamentals</b>. My long-term vision is to grow as a <b>software engineer who builds scalable, intelligent, and impactful systems</b>.<br><br>
 
-
-
 🚀 About Me<br><br>
 
 🎯 Current Focus: Strengthening my expertise in Data Structures & Algorithms, Full-Stack Web Development, Artificial Intelligence & Machine Learning fundamentals, system design principles, and hands-on project development using real-world tech stacks.<br><br><br>
@@ -24,10 +22,12 @@ I enjoy transforming ideas into real-world applications by combining <b>logic, c
 🏆 Achievements & Involvement<br><br>
 
 
+
 🧩 GDG on Campus: Active contributor promoting developer culture, technical awareness, and participation in coding events, hackathons, and workshops.<br><br><br>
 
 
 🔬 Science Exhibition: Recognized for innovative project design and presentation, demonstrating strong problem-solving ability and scientific thinking applied to real-world challenges.<br><br><br>
+
 
 
 📜 Professional Training: Successfully completed structured internship and technical training programs, gaining practical exposure to software engineering practices, teamwork, and development workflows.<br>
