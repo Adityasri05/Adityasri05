@@ -24,7 +24,6 @@ I enjoy transforming ideas into real-world applications by combining <b>logic, c
 
 🏆 Achievements & Involvement<br><br>
 
-
 🧩 GDG on Campus: Active contributor promoting developer culture, technical awareness, and participation in coding events, hackathons, and workshops.<br><br><br>
 
 
