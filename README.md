@@ -31,7 +31,6 @@ I enjoy transforming ideas into real-world applications by combining <b>logic, c
 🔬 Science Exhibition: Recognized for innovative project design and presentation, demonstrating strong problem-solving ability and scientific thinking applied to real-world challenges.<br><br><br>
 
 
-
 📜 Professional Training: Successfully completed structured internship and technical training programs, gaining practical exposure to software engineering practices, teamwork, and development workflows.<br>
 
 
