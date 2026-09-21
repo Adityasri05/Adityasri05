@@ -21,11 +21,9 @@ I enjoy transforming ideas into real-world applications by combining <b>logic, c
 🎯 Goal: Actively seeking software development opportunities, internships, and collaborative projects where I can apply my technical skills, build scalable systems, learn from industry professionals, and contribute to impactful real-world solutions.<br><br>
 
 
-
 🏆 Achievements & Involvement<br><br>
 
 🧩 GDG on Campus: Active contributor promoting developer culture, technical awareness, and participation in coding events, hackathons, and workshops.<br><br><br>
-
 
 🔬 Science Exhibition: Recognized for innovative project design and presentation, demonstrating strong problem-solving ability and scientific thinking applied to real-world challenges.<br><br><br>
 
@@ -48,9 +46,7 @@ I enjoy transforming ideas into real-world applications by combining <b>logic, c
 ![](https://streak-stats.demolab.com/?user=Adityasri05&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Adityasri05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
 ---
-
 
 [![](https://komarev.com/ghpvc/?username=Adityasri05&icon=0&color=0)](https://visitcount.itsvg.in)
 
