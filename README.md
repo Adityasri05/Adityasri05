@@ -28,6 +28,7 @@ I enjoy transforming ideas into real-world applications by combining <b>logic, c
 
 🧩 GDG on Campus: Active contributor promoting developer culture, technical awareness, and participation in coding events, hackathons, and workshops.<br><br><br>
 
+
 🔬 Science Exhibition: Recognized for innovative project design and presentation, demonstrating strong problem-solving ability and scientific thinking applied to real-world challenges.<br><br><br>
 
 
