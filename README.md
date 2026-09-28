@@ -8,6 +8,7 @@ I enjoy transforming ideas into real-world applications by combining <b>logic, c
 
 🚀 About Me<br><br>
 
+
 🎯 Current Focus: Strengthening my expertise in Data Structures & Algorithms, Full-Stack Web Development, Artificial Intelligence & Machine Learning fundamentals, system design principles, and hands-on project development using real-world tech stacks.<br><br><br>
 
 👨‍💼 Leadership: Serving as the <b>GDG Organizer ( Lead )</b> for GDG on Campus - SRMCEM, where I actively contribute to organizing hackathons, technical workshops, and community events for over <b>100+ students</b>, while also driving developer engagement and outreach initiatives.<br><br><br>
