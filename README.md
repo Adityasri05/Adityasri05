@@ -23,9 +23,7 @@ I enjoy transforming ideas into real-world applications by combining <b>logic, c
 
 🧩 GDG on Campus: Active contributor promoting developer culture, technical awareness, and participation in coding events, hackathons, and workshops.<br><br><br>
 
-
 🔬 Science Exhibition: Recognized for innovative project design and presentation, demonstrating strong problem-solving ability and scientific thinking applied to real-world challenges.<br><br><br>
-
 
 📜 Professional Training: Successfully completed structured internship and technical training programs, gaining practical exposure to software engineering practices, teamwork, and development workflows.<br>
 
@@ -40,7 +38,6 @@ I enjoy transforming ideas into real-world applications by combining <b>logic, c
 
 
 # 📊 GitHub Stats:
-
 
 ![](https://github-readme-stats.shion.dev/api?username=Adityasri05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Adityasri05&theme=dark&hide_border=false)<br/>
